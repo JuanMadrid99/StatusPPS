@@ -1,0 +1,9 @@
+.home-logo {
+      height: 35vmin;
+      pointer-events: none;
+      padding: 50px 20px 10px 20px ;
+  }
+
+  .home {
+      text-align: center;
+  }
